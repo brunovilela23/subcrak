@@ -6,7 +6,7 @@ echo "    / __|  | | | |  | _ )   / __|   | _ \   /   \  | |/ /     "
 echo "    \__ \  | |_| |  | _ \  | (__    |   /   | - |  | ' <      "
 echo "    |___/   \___/   |___/   \___|   |_|_\   |_|_|  |_|\_\     "
 echo "                                                              "
-echo "                          By: Dexter                          "
+echo "                          By: D3xter                          "
 echo "                                                              "
 echo "=============================================================="
 read -p "Digite o domínio que deseja pesquisar: " domain
